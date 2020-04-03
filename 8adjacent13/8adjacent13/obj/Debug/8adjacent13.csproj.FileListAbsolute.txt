@@ -1,0 +1,6 @@
+c:\users\anika\documents\visual studio 2013\Projects\8adjacent13\8adjacent13\bin\Debug\8adjacent13.exe.config
+c:\users\anika\documents\visual studio 2013\Projects\8adjacent13\8adjacent13\bin\Debug\8adjacent13.exe
+c:\users\anika\documents\visual studio 2013\Projects\8adjacent13\8adjacent13\bin\Debug\8adjacent13.pdb
+c:\users\anika\documents\visual studio 2013\Projects\8adjacent13\8adjacent13\obj\Debug\8adjacent13.csprojResolveAssemblyReference.cache
+c:\users\anika\documents\visual studio 2013\Projects\8adjacent13\8adjacent13\obj\Debug\8adjacent13.exe
+c:\users\anika\documents\visual studio 2013\Projects\8adjacent13\8adjacent13\obj\Debug\8adjacent13.pdb
